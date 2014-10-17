@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gbf:home|Door43 (gbf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gbf|d43-gbf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gbf/archive/master.zip|d43-gbf.zip]]
+
+**Recent Changes**
+{{changes>ns = gbf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gbf|Ethnologue data]]
+
